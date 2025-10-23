@@ -16,7 +16,7 @@ Performs basic arithmetic operations (addition, subtraction, multiplication, div
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Calculator-App.git
+   git clone https://github.com/megha0812/Calculator-App.git
 2. Open web-calculator folder
 3. Open in GitHub Codespaces to run live, or clone locally if you have Node.js installed.
 
