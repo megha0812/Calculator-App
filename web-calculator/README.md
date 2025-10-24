@@ -1,5 +1,5 @@
 # Web Calculator 🧮
-
+https://calculator-app20.vercel.app/
 A sleek, responsive calculator built using **React + TypeScript + Tailwind CSS**.  
 Performs basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and interactive UI.
 
